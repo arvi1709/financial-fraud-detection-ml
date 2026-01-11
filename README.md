@@ -121,8 +121,7 @@ fraud-detection/
 ├── fraud_detection.ipynb
 ├── README.md
 ├── requirements.txt
-└── data/
-    └── fraud.csv
+└── fraud_sample.csv
 ```
 
 ---
@@ -148,5 +147,6 @@ The model is both **accurate and interpretable**, making it suitable for real-wo
 **Arvind Kumar**
 B.Tech CSE (AI & ML)
 Aspiring Machine Learning Engineer
+
 
 
