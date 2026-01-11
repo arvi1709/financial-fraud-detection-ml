@@ -17,7 +17,7 @@ The solution combines **exploratory data analysis, feature engineering, imbalanc
 ## 📂 Dataset
 Due to GitHub file size limits, the full dataset is not included in this repository.
 
-- Sample dataset: `data/fraud_sample.csv`
+- Sample dataset: `fraud_sample.csv`
 - Full dataset source: [https://www.kaggle.com/datasets/chitwanmanchanda/fraudulent-transactions-data/data]
 
 ### Key Columns
@@ -148,4 +148,5 @@ The model is both **accurate and interpretable**, making it suitable for real-wo
 **Arvind Kumar**
 B.Tech CSE (AI & ML)
 Aspiring Machine Learning Engineer
+
 
